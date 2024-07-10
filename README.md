@@ -1,6 +1,6 @@
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sifer169966&layout=compact&theme=tokyonight&langs_count=8" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sifer169966&layout=compact&theme=tokyonight&langs_count=6" />
 
 <!--
 **sifer169966/sifer169966** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
